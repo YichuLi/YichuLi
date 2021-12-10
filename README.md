@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YichuLi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning OS, AI and Computer Network
+- 🌱 I’m currently learning deep learning and NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
