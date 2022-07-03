@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YichuLi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Deep Learning and NLP
+- 🌱 I’m currently learning Algorithms and C++
 
 <!---
 YichuLi/YichuLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
