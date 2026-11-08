@@ -1,15 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yichu Li
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andy
 ================================================================================================================================
 
 Software Engineer
 -----------------
 
-I am a dedicated software developer with over 6 years of coding experience, specializing in backend and full-stack development.
+I am a Software Engineer at Google
 
 * 🌍  I'm based in Waterloo, ON
-* 🖥️  See my portfolio at [MyPortfolio](http://yichuli.github.io/)
+* 🖥️  See my personal website at [here](http://yichuli.github.io/)
 * ✉️  You can contact me at [yichu.li@outlook.com](mailto:yichu.li@outlook.com)
-* 🧠  I'm learning React, Docker and Kubernetes
 
 ### Skills
 
